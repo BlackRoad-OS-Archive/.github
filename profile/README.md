@@ -1,14 +1,27 @@
-# BlackRoad / Archive
+# BlackRoad-OS-Archive
 
-> **Remember the Road. Pave Tomorrow.**
+BlackRoad OS organization workbench.
 
-Frozen code, deprecated services, and the institutional memory that didn't make it to the live road.
+This org is part of the BlackRoad OS canon structure:
 
-**This org owns**
-- Retired services and legacy monorepo skeletons
-- Predecessor projects and archived experiments
-- Anything explicitly removed from the canon
+- 1 operator
+- 27 agents
+- 27 products
+- 20 root domains
+- 20 active GitHub orgs
 
-Code lands here when it stops being part of the live system but is worth keeping for history. New work doesn't start here.
+Status:
+Initialized organization profile and default community files.
 
-[blackroad.io](https://blackroad.io)
+Honesty note:
+Repos in this org may be initialized shells. Do not treat them as implemented products unless their README, tests, deployment notes, and receipts prove it.
+
+Rules:
+- Do not commit secrets.
+- Keep main clean.
+- Use blackroad-lab for experiments.
+- Write receipts for meaningful changes.
+- Mark unfinished work honestly: MOCK, PARTIAL, UNKNOWN, or REAL.
+
+Tagline:
+Remember the Road. Pave Tomorrow.
